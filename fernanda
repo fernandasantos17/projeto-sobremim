@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+</html>
+<head> 
+    <meta charset="utf-8">
+    <title> Fernanda Santos </title>
+</head>
+
+<body>
+    <h1><font color= red>FERNANDA SANTOS </font></h1>
+ <img src="https://scontent-gig2-1.xx.fbcdn.net/v/t39.30808-6/279035127_1029770157947316_5396885119264828810_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHKbLKoh-Y8teRv50kW8jGffEbf9nbVmPp8Rt_2dtWY-uW8bpzMbMJ7aDBSyd59LKzbJ0ZFWr8rNomFPs-yMFdc&_nc_ohc=Hofi9RAktMcAX8MYrzF&_nc_ht=scontent-gig2-1.xx&oh=00_AT9RH2tYAI7Y7NlkhUHW41SnQgvBhsmlgsklYjW-oWvgbA&oe=632AACE8"
+
+ <br> <br>
+ <br> <b> <font color= greeen>Sobre mim: </font></b> <br>
+    Eu sou <a href="" https://www.instagram.com/fesantanarj/>Fernanda</a>
+    , tenho 19 anos, moro com a minha mãe e também com dois irmãos. Além deles, tenho também três irmãs. Sou formada em técnica de enfermagem e atualmente estou estudando programação.
+    <br>
+    <br>
+    <b> <font color= greeen>Hobbies e interesses: </font></b>
+     <br> Eu gosto de assistir futebol, mas especialmente jogos do <a href= https://www.instagram.com/p/Cc0fIlcrPcJ/?utm_source=ig_web_button_share_sheet> Flamengo </a>, sair com amigos e família. Gosto também de sertanejo, principalmente <a href= https://www.instagram.com/luansantana/> Luan Santana </a>. Quando estou em casa, adoro assitir filmes e séries. A última que assisti foi "Bom dia, Verônica". </body>
+<br>
+<br>
+<b> <font color= greeen>Contato: </font></b>
+<form action="/formulario-contato" method="post">
+    <div>
+        <label for="nome">Nome:</label>
+        <input type="texto" id="nome" name="nome_usuario">
+    </div> <br>
+    <div>
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="email_usuario">
+    </div> <br>
+    <div>
+        <label for="texto">Texto:</label>
+        <textarea id="texto" name="texto_usuario"></textarea>
+    </div>
+</form><br> 
+<button><b><font color= red>Enviar</font></b></button>
